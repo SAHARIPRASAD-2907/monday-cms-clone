@@ -14,7 +14,7 @@ function StatusDisplay({ status }) {
         color = "rgb(255,179,186)";
         break;
       default:
-        color = "rgb(255,255,255)";
+        color = "#b3e8ff";
         break;
     }
     return color;
